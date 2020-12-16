@@ -2,6 +2,7 @@
 
 - API-app
     - Holds the implementation and the schema of movies app
+    - Also, the implementation of movies crud on hard coded json movies
     - the schema is written in the md file in the folder
     
 - react-app
